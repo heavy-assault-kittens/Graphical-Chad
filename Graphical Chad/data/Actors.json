@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_5","characterIndex":4,"characterName":"Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Chad","nickname":"Uncle Chad","note":"The Main Character","profile":""},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"Evil","classId":1,"equips":[2,0,0,0,0],"faceIndex":1,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":99,"name":"Theodore","nickname":"","note":"The possibly serial killer neighbor","profile":"The neighbor to Chad, probably a serial killer.  Maybe..."},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"Evil","classId":1,"equips":[3,0,0,0,0],"faceIndex":0,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kamek","nickname":"","note":"-This character can contain Greenless\nreferences","profile":"A nice little fox guy."},
+{"id":4,"battlerName":"","characterIndex":2,"characterName":"People1","classId":1,"equips":[4,0,2,3,4],"faceIndex":2,"faceName":"People1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Grocery World Manager","nickname":"","note":"-Grocery World Owner\n-Doesn't like Chad","profile":"The manager of the local Grocery World store.  He doesn't like Chad very much."}
+]
