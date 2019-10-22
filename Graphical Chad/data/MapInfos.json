@@ -15,6 +15,6 @@ null,
 {"id":13,"expanded":false,"name":"Leaving Argent 2","order":12,"parentId":11,"scrollX":1378,"scrollY":297},
 {"id":14,"expanded":true,"name":"Section 2 Transition","order":14,"parentId":0,"scrollX":534,"scrollY":319},
 {"id":15,"expanded":true,"name":"Varon","order":15,"parentId":14,"scrollX":534,"scrollY":468},
-{"id":16,"expanded":true,"name":"Bill's Hotel and Casino - Varon","order":16,"parentId":15,"scrollX":1641,"scrollY":1198.5},
-{"id":17,"expanded":false,"name":"Bill's - Varon - Floor 2","order":17,"parentId":16,"scrollX":816,"scrollY":291.5}
+{"id":16,"expanded":true,"name":"Bill's Hotel and Casino - Varon","order":16,"parentId":15,"scrollX":532,"scrollY":952.5},
+{"id":17,"expanded":false,"name":"Bill's - Varon - Floor 2","order":17,"parentId":16,"scrollX":540,"scrollY":291.5}
 ]
